@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiortc
+httpx
+gTTS
+python-dotenv
